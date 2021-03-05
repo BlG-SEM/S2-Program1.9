@@ -164,7 +164,7 @@ public class Time {
     @Override
     public String toString() {
         return "Time{" +
-                "seconds=" + seconds +
+                "seconds = " + seconds +
                 '}';
     }
 }
