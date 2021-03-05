@@ -29,7 +29,7 @@ public class Main {
         System.out.println(Time.castToString(time6));
         System.out.println(Time.castToString(time7));
 
-        System.out.println("Demonstration of how actions work with time :");
+        System.out.println("Demonstration of how actions work with time:");
 
         System.out.println(time1.isEqualsThen(time0));
         System.out.println(time2.isGreatherThen(time0));
